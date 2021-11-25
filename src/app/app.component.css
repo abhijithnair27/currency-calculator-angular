@@ -1,0 +1,39 @@
+.Main {
+    margin-top: 10%;
+    margin-left: 35%;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    
+    height: 300px;
+    width: 400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.submain {
+    margin-left: 12%;
+    margin-top: 70px;
+
+}
+.logo {
+    margin-left: 30px;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: white;
+}
+
+.button1 {
+    width: 153px;
+}
+
+.inputCurrency {
+    height: 30px;
+    width: 200px;
+}
+.selectCurrency {
+    margin-left: 20px;
+    height: 30px;
+}
